@@ -1,0 +1,31 @@
+
+/* Exemplos de estilizacao com CSS */
+main{
+    border: 2px solid black;
+    display: flex;
+}
+.titulo{
+    font-family:'Times New Roman', Times, serif;
+    color:purple;
+}
+
+.koru{
+    color: red
+}
+
+#list {
+    border: 4px double green;
+}
+
+[type="I"]{
+    border: 5px solid blue;
+}
+
+ul > li:hover {
+    font-size: 20px;
+}
+
+h1{
+    border: 2px solid black;
+    margin: 2px 2px 2px px;
+}
