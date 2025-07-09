@@ -1,6 +1,6 @@
 
 /* Exemplos de estilizacao com CSS */
-main{
+/* main{
     border: 2px solid black;
     display: flex;
 }
@@ -28,4 +28,22 @@ ul > li:hover {
 h1{
     border: 2px solid black;
     margin: 2px 2px 2px px;
+} */
+
+h1 {
+    border: 2px solid black;
+    width: 200px;
+    /* display: inline-block; */
+}
+
+span {
+    display: block;
+}
+
+button {
+    width: 300px;
+}
+
+p {
+    display: inline-block ;
 }
